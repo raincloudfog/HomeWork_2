@@ -55,6 +55,20 @@ int main() {
 
     cout << "\n\n\n도전 과제 4 \n\n\n";
 
+    Zoo* zoo = new Zoo();
 
+    for (int i = 0; i < 10; i++)
+    {
+          zoo->addAnimal(zoo->createRandomAnimal());
+    }
+
+    zoo->performActions();
+
+    zoo->addAnimal(zoo->createRandomAnimal());
+    zoo->addAnimal(zoo->createRandomAnimal());
+    zoo->performActions();
+
+
+    delete zoo;
 
 }

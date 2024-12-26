@@ -127,8 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CH_2_1_4.cpp" />
-    <ClCompile Include="CH_2_1_4.h" />
+    <ClCompile Include="CH_2_1_3.cpp" />
     <ClCompile Include="CH_2_Main.cpp" />
     <ClCompile Include="HomeWork_Pointer_2.h" />
     <ClCompile Include="HomeWork_STL.h" />
@@ -147,6 +146,7 @@
     <ClInclude Include="HomeWork_diamond.h" />
     <ClInclude Include="HomeWork_Fraction.h" />
     <ClInclude Include="HomeWork_Pointer.h" />
+    <ClInclude Include="Observer.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="HomeWork_overload.h" />

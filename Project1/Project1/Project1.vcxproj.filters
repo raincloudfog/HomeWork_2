@@ -48,10 +48,7 @@
     <ClCompile Include="CH_2_Main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CH_2_1_4.h">
-      <Filter>헤더 파일\CH2</Filter>
-    </ClCompile>
-    <ClCompile Include="CH_2_1_4.cpp">
+    <ClCompile Include="CH_2_1_3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -76,6 +73,9 @@
     </ClInclude>
     <ClInclude Include="CH_2_1_3.h">
       <Filter>헤더 파일\CH2</Filter>
+    </ClInclude>
+    <ClInclude Include="Observer.h">
+      <Filter>헤더 파일\HomeWork</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
