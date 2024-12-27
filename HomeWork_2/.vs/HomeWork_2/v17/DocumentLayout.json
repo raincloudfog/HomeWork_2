@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qordl\\Documents\\GitHub\\HomeWork_2\\HomeWork_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1822C23-668D-401E-914E-54EE9D0A4EA6}|HomeWork_2\\HomeWork_2.vcxproj|C:\\Users\\qordl\\Documents\\GitHub\\HomeWork_2\\HomeWork_2\\HomeWork_2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1822C23-668D-401E-914E-54EE9D0A4EA6}|HomeWork_2\\HomeWork_2.vcxproj|solutionrelative:HomeWork_2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1822C23-668D-401E-914E-54EE9D0A4EA6}|HomeWork_2\\HomeWork_2.vcxproj|C:\\Users\\qordl\\Documents\\GitHub\\HomeWork_2\\HomeWork_2\\HomeWork_2\\CH_2_1_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1822C23-668D-401E-914E-54EE9D0A4EA6}|HomeWork_2\\HomeWork_2.vcxproj|solutionrelative:HomeWork_2\\CH_2_1_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CH_2_1_3.cpp",
+              "DocumentMoniker": "C:\\Users\\qordl\\Documents\\GitHub\\HomeWork_2\\HomeWork_2\\HomeWork_2\\CH_2_1_3.cpp",
+              "RelativeDocumentMoniker": "HomeWork_2\\CH_2_1_3.cpp",
+              "ToolTip": "C:\\Users\\qordl\\Documents\\GitHub\\HomeWork_2\\HomeWork_2\\HomeWork_2\\CH_2_1_3.cpp",
+              "RelativeToolTip": "HomeWork_2\\CH_2_1_3.cpp",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-27T02:35:57.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\qordl\\Documents\\GitHub\\HomeWork_2\\HomeWork_2\\HomeWork_2\\Main.cpp",
+              "RelativeDocumentMoniker": "HomeWork_2\\Main.cpp",
+              "ToolTip": "C:\\Users\\qordl\\Documents\\GitHub\\HomeWork_2\\HomeWork_2\\HomeWork_2\\Main.cpp",
+              "RelativeToolTip": "HomeWork_2\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-27T02:17:13.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
